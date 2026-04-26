@@ -50,7 +50,7 @@ Operating Systems, Networking
 * Features: User authentication, car booking, availability management
 * Implemented **CRUD operations and backend APIs**
 * Demonstrates **full-stack development & database integration**
-* 🔗 GitHub Repo: https://github.com/surja123003/car-rental-system
+* 🔗 GitHub Repo:https://github.com/surja123003/CarRental 
 
 ---
 
@@ -59,7 +59,7 @@ Operating Systems, Networking
 * Built using **React.js + Node.js**
 * Features: Add, update, delete tasks
 * Demonstrates **full-stack development concepts**
-* 🔗 GitHub Repo: https://github.com/surja123003/todo-list-app
+* 🔗 GitHub Repo: https://github.com/surja123003/To-Do-list
 
 ---
 
